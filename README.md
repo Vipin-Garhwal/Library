@@ -2,7 +2,7 @@
 Library for storing books
 #Small library project in python#
 def library():
-    while True:
+    while True: 
         print("Menue")
         print("1.Add Book")
         print("2.Show Books")
