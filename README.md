@@ -27,7 +27,7 @@ def library():
 book=[]
 issued_books=[]
 def add_book():
-        name=input("Enter name of book")
+        name =input("Enter name of book")
         book.append(name)
         print(f"{name} book is added")
 
